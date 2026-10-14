@@ -6,8 +6,6 @@ This part of the application has no screen of its own. It is the "engine" that w
 
 Author: Vlade Gole
 
-🌐 Also available in Serbian: README.md
-
 📖 A short glossary (for non-programmers)
 Term	What it means
 API	The application's "service counter". Other programs send it requests (e.g. "give me all events") and get answers back.
